@@ -9,3 +9,5 @@ OrgModel => model and results from the original project: https://github.com/sksm
 BestResults => best model and results obtained
 DataAugmentation => best model trained with data augmentation
 Models => other models generated during many tests.
+
+Dataset from ASVSpoof2019 LA Database: https://datashare.ed.ac.uk/handle/10283/3336
